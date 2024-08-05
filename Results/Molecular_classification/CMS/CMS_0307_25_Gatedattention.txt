@@ -1,0 +1,217 @@
+Data: CRC_resnet0307(CMS_0604)
+Random state: 14
+Weight_decay: 0.001
+Loss: Cross entropy loss
+HoverNet loss: Cross entropy loss
+Attention score
+Instance: Top 5
+Val_loss: cls_loss
+fc_c->fc_X
+0.95:0.05
+Fold: 0
+Params: 0.05
+Learning rate :8e-05
+AUROC: 0.7871993338529796
+Fold: 1
+Params: 0.05
+Learning rate :8e-05
+AUROC: 0.8554008479682247
+Fold: 2
+Params: 0.05
+Learning rate :8e-05
+AUROC: 0.884356436239631
+Fold: 3
+Params: 0.05
+Learning rate :8e-05
+AUROC: 0.807198712490105
+Fold: 4
+Params: 0.05
+Learning rate :8e-05
+AUROC: 0.7660547928280675
+AUROC_avg: 0.8200420246758016
+AUPRC_std: 0.048848756714961965
+------------------------------------------------------------
+Fold: 0
+Params: 0.05
+Learning rate :0.0001
+AUROC: 0.7933373644212438
+Fold: 1
+Params: 0.05
+Learning rate :0.0001
+AUROC: 0.8606125460232664
+Fold: 2
+Params: 0.05
+Learning rate :0.0001
+AUROC: 0.8715077299787601
+Fold: 3
+Params: 0.05
+Learning rate :0.0001
+AUROC: 0.7831821901829934
+Fold: 4
+Params: 0.05
+Learning rate :0.0001
+AUROC: 0.7507253273125978
+AUROC_avg: 0.8118730315837723
+AUPRC_std: 0.05205193223007798
+------------------------------------------------------------
+Fold: 0
+Params: 0.05
+Learning rate :9e-05
+AUROC: 0.77160074800216
+Fold: 1
+Params: 0.05
+Learning rate :9e-05
+AUROC: 0.8545355952267162
+Fold: 2
+Params: 0.05
+Learning rate :9e-05
+AUROC: 0.8881270242124327
+Fold: 3
+Params: 0.05
+Learning rate :9e-05
+AUROC: 0.8001842533093608
+Fold: 4
+Params: 0.05
+Learning rate :9e-05
+AUROC: 0.7581857992938795
+AUROC_avg: 0.8145266840089098
+AUPRC_std: 0.0553180794266393
+------------------------------------------------------------
+Fold: 0
+Params: 0.05
+Learning rate :7e-05
+AUROC: 0.7866066092328696
+Fold: 1
+Params: 0.05
+Learning rate :7e-05
+AUROC: 0.846644700025694
+Fold: 2
+Params: 0.05
+Learning rate :7e-05
+AUROC: 0.8459496407630714
+Fold: 3
+Params: 0.05
+Learning rate :7e-05
+AUROC: 0.7958588117678078
+Fold: 4
+Params: 0.05
+Learning rate :7e-05
+AUROC: 0.7652559289984556
+AUROC_avg: 0.8080631381575797
+AUPRC_std: 0.03662550125246433
+------------------------------------------------------------
+Fold: 0
+Params: 0.05
+Learning rate :6e-05
+AUROC: 0.7750825663272678
+Fold: 1
+Params: 0.05
+Learning rate :6e-05
+AUROC: 0.8122995606376797
+Fold: 2
+Params: 0.05
+Learning rate :6e-05
+AUROC: 0.8707341512739386
+Fold: 3
+Params: 0.05
+Learning rate :6e-05
+AUROC: 0.7792326644672671
+Fold: 4
+Params: 0.05
+Learning rate :6e-05
+AUROC: 0.6970455328495091
+AUROC_avg: 0.7868788951111324
+AUPRC_std: 0.06313787574231236
+------------------------------------------------------------
+Fold: 0
+Params: 0.05
+Learning rate :5e-05
+AUROC: 0.787817714341079
+Fold: 1
+Params: 0.05
+Learning rate :5e-05
+AUROC: 0.8379096793388613
+Fold: 2
+Params: 0.05
+Learning rate :5e-05
+AUROC: 0.839577446709233
+Fold: 3
+Params: 0.05
+Learning rate :5e-05
+AUROC: 0.8002213396563629
+Fold: 4
+Params: 0.05
+Learning rate :5e-05
+AUROC: 0.7070987652897143
+AUROC_avg: 0.7945249890670502
+AUPRC_std: 0.05392758069353864
+------------------------------------------------------------
+Fold: 0
+Params: 0.05
+Learning rate :4e-05
+AUROC: 0.7908692758220174
+Fold: 1
+Params: 0.05
+Learning rate :4e-05
+AUROC: 0.8353511151585524
+Fold: 2
+Params: 0.05
+Learning rate :4e-05
+AUROC: 0.8207325268182301
+Fold: 3
+Params: 0.05
+Learning rate :4e-05
+AUROC: 0.793779173474787
+Fold: 4
+Params: 0.05
+Learning rate :4e-05
+AUROC: 0.7192381621128852
+AUROC_avg: 0.7919940506772943
+AUPRC_std: 0.04473143792124567
+------------------------------------------------------------
+Fold: 0
+Params: 0.05
+Learning rate :3e-05
+AUROC: 0.7784495240181334
+Fold: 1
+Params: 0.05
+Learning rate :3e-05
+AUROC: 0.7973737194919099
+Fold: 2
+Params: 0.05
+Learning rate :3e-05
+AUROC: 0.8627681617770389
+Fold: 3
+Params: 0.05
+Learning rate :3e-05
+AUROC: 0.7951067544632245
+Fold: 4
+Params: 0.05
+Learning rate :3e-05
+AUROC: 0.689165324156813
+AUROC_avg: 0.7845726967814239
+AUPRC_std: 0.062308553376279704
+------------------------------------------------------------
+Fold: 0
+Params: 0.05
+Learning rate :2e-05
+AUROC: 0.7812047745939015
+Fold: 1
+Params: 0.05
+Learning rate :2e-05
+AUROC: 0.793459696115279
+Fold: 2
+Params: 0.05
+Learning rate :2e-05
+AUROC: 0.8423121178384445
+Fold: 3
+Params: 0.05
+Learning rate :2e-05
+AUROC: 0.7813263657739652
+Fold: 4
+Params: 0.05
+Learning rate :2e-05
+AUROC: 0.7094074017379898
+AUROC_avg: 0.781542071211916
+AUPRC_std: 0.04753577386633349
+------------------------------------------------------------

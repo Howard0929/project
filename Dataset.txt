@@ -1,0 +1,2 @@
+本論文使用TCGA-COAD和TCGA-READ的diagnosis slides進行訓練，並使用CPTAC-COAD和PAIP資料集做外部資料集驗證。
+本研究針對大腸直腸癌的MSI, BRAF, KRAS, TP53和CMS進行預測。
