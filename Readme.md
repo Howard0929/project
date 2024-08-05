@@ -9,10 +9,15 @@ Code Editor: Python 3.10.9
 The genotypes and microsatellite instability status of the samples are summarized in the following xlsx files:
 
 MSI_CRC_DX_0307.xlsx
+
 MSI_CPTAC.xlsx
+
 MSI_PAIP.xlsx
+
 Gene_CRC_DX_0307.xlsx
+
 Gene_CPTAC_0307.xlsx
+
 CRC.txt
 
 ### Methods ###
