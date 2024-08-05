@@ -65,6 +65,7 @@ python visualization.py
 In visualization.py, you can execute SVM to obtain the importance of different cell types in biomarker classification.
 
 
+<p style="font-size:20px">This is a custom font size</p>
 
 
 
