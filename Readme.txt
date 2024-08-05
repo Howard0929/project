@@ -1,7 +1,7 @@
 This code can be used to predict the expression of important genotypes in patients from histopathological images. This study takes colorectal cancer as an example, using TCGA-CRC-DX for training and CPTAC-COAD and PAIP as external datasets for validation.
 
 Operating System: Ubuntu 22.04.3 LTS (GNU/Linux 5.15.0-72-generic x86_64)
-Code Editor: VScode version 1.91
+Code Editor: Python 3.10.9
 
 ####################
 
